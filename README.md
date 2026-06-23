@@ -1,3 +1,11 @@
+# [Praat: doing phonetics by computer](https://www.praat.org)
+
+Where to get praat: [Praat.org](https://www.praat.org)
+
+Community: [Praat-Users-List](https://groups.io/g/Praat-Users-List) for all your questions and answers
+
+GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
+
 # Introductions
 
 - [Praat.org introductory tutorial to Praat](https://praat.org/manual/Intro.html) 
@@ -28,10 +36,12 @@
 
 - [Scripting](https://www.fon.hum.uva.nl/praat/manual/Scripting.html) at *Praat.org*
 
-- [Praat Course](https://www.fernandabarrientos.cl/praatcourse/index.html) by *Fernanda Barrientos*
+- [Praat Course](https://www.fernandabarrientos.cl/praatcourse/index.html "Welcome to my Praat course. I wrote the first version of this course in 2019 for my students at Konstanz. Most of them had a background in Phonetics, Praat (i.e. having used the GUI), and/or computer programming and thus I wrote it taking that into account. The second version had students without such background and it became obvious to me that the next version of this course will need to cater for those students as well. The third version (current) included the participation of Moritz Jakob as a teaching assistant, who also contributed to the course structure by adding further exercises and making the course progress smoother.") by *Fernanda Barrientos*
 
-- [Speech Signal Processing with Praat (PDF)](https://www.fon.hum.uva.nl/david/sspbook/sspbook.pdf) by *David Weenink*
-  *A comprehensive work on using Praat for SSP*
+- [Scripting and tools](https://www.mauriciofigueroa.cl/04_scripts/04_scripts.html "Here you'll find some Praat programming aids, various scripts,  scripting manuals and workshops about using Praat in production and  perception studies in speech sciences.") by *Mauricio Figueroa*
+
+- [Speech Signal Processing with Praat (PDF)](https://www.fon.hum.uva.nl/david/sspbook/sspbook.pdf) by *David Weenink* (328 pages)
+  *A comprehensive book on using Praat for SSP*
 
 # Script repositories
 
