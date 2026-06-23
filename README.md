@@ -32,10 +32,20 @@
 
 - [Speech Signal Processing with Praat (PDF)](https://www.fon.hum.uva.nl/david/sspbook/sspbook.pdf) by *David Weenink*
 
-- [feelins /Praat\_Scripts ](https://github.com/feelins/Praat_Scripts)Some basic praat scripts (GitHub)
+# Script repositories
 
-- [Praat scripts ](https://www.acsu.buffalo.edu/~cdicanio/scripts.html) by *Christian DiCanio - University at Buffalo*
+    *(description in tooltips)*
 
-- [Praat Scripts](http://www.mattwinn.com/praat.html) by *Matthew Winn*
+- [Some basic praat scripts](https://feelins.github.io/Praat_Scripts/ "This project includes some commonly used scripts of Praat, combined with simple examples to explain how to use these scripts, each independent directory contains sample files and result files, which are suitable for those who have some understanding of the basic operations of Praat, beginners who have a good understanding of basic acoustic parameters such as Duration, fundamental frequency and formant.") by *Pengfei Shao*
+
+- [SpeCT - The Speech Corpus Toolkit for Praat)](https://lennes.github.io/spect/ "The aim of the Speech Corpus Toolkit for Praat (SpeCT) is to provide an organized inventory of well-documented Praat scripts that can be easily downloaded, modified and used in order to perform small tasks during the various stages of building, organizing, annotating, analysing, searching and exporting data from a speech corpus.") by *Mietta Lennis*
+
+- [Praat scripts](https://www.acsu.buffalo.edu/~cdicanio/scripts.html "tonal and accentual properties of words") by *Christian DiCanio - University at Buffalo*
+
+- [Praat Scripts](http://www.mattwinn.com/praat.html "Here you can find some of the scripts that I use most often in my research. There are simple things like measuring intensity or duration, and also some more complicated procedures like speech manipulation and cochlear implant simulation.") by *Matthew Winn*
+
+- [Praat_Scripts](https://github.com/romaindez/Praat_Scripts "This repository contains several open-source Praat scripts divided into two folders. They are designed to automate some of the most common tasks in speech research. They are intended to be used by researchers and students who are familiar with Praat and have some basic knowledge of scripting. Each script has a header with instructions on how to use it as well as a description of the task it performs. Please read the header carefully before using the script.") by *Romain Mendez* 
+
+- [Praat scripts](https://github.com/congzhang365/Praat "These are a small part of the my praat scripts I wrote a long time ago. I hope they can save time for people who needs similar scripts.") by *Cong Zhang*
 
 
