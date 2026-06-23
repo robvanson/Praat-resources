@@ -31,6 +31,7 @@
 - [Praat Course](https://www.fernandabarrientos.cl/praatcourse/index.html) by *Fernanda Barrientos*
 
 - [Speech Signal Processing with Praat (PDF)](https://www.fon.hum.uva.nl/david/sspbook/sspbook.pdf) by *David Weenink*
+  *A comprehensive work on using Praat for SSP*
 
 # Script repositories
 
