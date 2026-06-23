@@ -8,7 +8,7 @@
 
 # Tutorials
 
-- [Praat manuals by others](https://www.fon.hum.uva.nl/praat/manualsByOthers.html) at *Praat.org* (in different languages)
+- [Praat manuals by others](https://www.fon.hum.uva.nl/praat/manualsByOthers.html) at *Praat.org* (in several languages)
 
 - [Praat tutorial](https://www.gouskova.com/2016/09/03/praat-tutorial/) by [*Maria Gouskova*](https://www.gouskova.com/)
 
