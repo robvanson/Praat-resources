@@ -32,6 +32,8 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
 
 - [Recording with Praat](https://aletheiacui.github.io/tutorials/recording_with_praat.html) by *Aletheia Cui*
 
+- [whisper.cpp](https://praat.org/manual/whisper_cpp.html) by *Anastasia Shchupak* using Whispoer speech recognition in Praat (at *Praat.org*)
+
 # Scripting
 
 - [Scripting](https://www.fon.hum.uva.nl/praat/manual/Scripting.html) at *Praat.org*
@@ -58,5 +60,3 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
 - [Praat_Scripts](https://github.com/romaindez/Praat_Scripts "This repository contains several open-source Praat scripts divided into two folders. They are designed to automate some of the most common tasks in speech research. They are intended to be used by researchers and students who are familiar with Praat and have some basic knowledge of scripting. Each script has a header with instructions on how to use it as well as a description of the task it performs. Please read the header carefully before using the script.") by *Romain Mendez* 
 
 - [Praat scripts](https://github.com/congzhang365/Praat "These are a small part of the my praat scripts I wrote a long time ago. I hope they can save time for people who needs similar scripts.") by *Cong Zhang*
-
-
