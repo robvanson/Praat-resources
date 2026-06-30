@@ -60,3 +60,25 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
 - [Praat_Scripts](https://github.com/romaindez/Praat_Scripts "This repository contains several open-source Praat scripts divided into two folders. They are designed to automate some of the most common tasks in speech research. They are intended to be used by researchers and students who are familiar with Praat and have some basic knowledge of scripting. Each script has a header with instructions on how to use it as well as a description of the task it performs. Please read the header carefully before using the script.") by *Romain Mendez* 
 
 - [Praat scripts](https://github.com/congzhang365/Praat "These are a small part of the my praat scripts I wrote a long time ago. I hope they can save time for people who needs similar scripts.") by *Cong Zhang*
+
+# Special projects
+
+- [Vowel Triangle](https://robvanson.github.io/VowelTriangle/ "A [*Praat*](http://www.praat.org) script to calculate the Vowel Space Area from labelled and unlabelled running speech") by *Rob van Son* 
+
+- [Pitch and Intensity ranges](https://github.com/robvanson/Pitch_and_Intensity_ranges "Praat script to plot the relation between Pitch and Intensity in speech. This becomes a Phonetogram if used on sustained vowels tracing the extremes in pitch and loudness.") by *Rob van Son*
+
+- [Pseudonymize Speech](https://robvanson.github.io/PseudonymizeSpeech/ "A [*Praat*](http://www.praat.org) script to pseudonymize speech. That is, *Pseudonymize Speech* tries to make it difficult to recognize a speaker while still retaining relevant (para-)linguistic features and intelligibility. There is a  trade-off between the level of *pseudonymization* and the (para-)linguistic features retained.") by *Rob van Son*
+
+# Useful speech corpora
+
+- [IFA Dialog Video corpus](https://zenodo.org/records/14906857 "The IFA Dialog Video corpus is a collection of annotated video recordings of friendly Face-to-Face dialogs." ) by *Rob van Son* (Dutch)
+
+- [The IFA Spoken Language Corpus](https://zenodo.org/records/14904090 "The IFA Spoken Language corpus is a free (GPL) database of hand-segmented **Dutch** speech") by *Rob van Son* (Dutch)
+
+- [Oral cancer speech corpus for the paper "Objective speech outcomes after 
+  surgical treatment for oral cancer: An acoustic analysis of a 
+  spontaneous speech corpus containing 32.850 tokens"](https://zenodo.org/records/6401713 "Dataset accompanying the paper 'Objective speech outcomes after surgical treatment for oral cancer: An acoustic analysis of a spontaneous speech corpus containing 32.850 tokens'") by *Bence Halpern* & *Thomas Tienkamp* (US English)
+
+- [Parallel Audiobook Corpus](https://doi.org/10.7488/ds/2468) by *Ribeiro, Manuel Sam* (UK English)
+
+- [ASVspoof corpora](https://www.asvspoof.org/) from the *Automatic Speaker Verification Spoofing and Countermeasures Challenge*
