@@ -75,9 +75,7 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
 
 - [The IFA Spoken Language Corpus](https://zenodo.org/records/14904090 "The IFA Spoken Language corpus is a free (GPL) database of hand-segmented **Dutch** speech") by *Rob van Son* (Dutch)
 
-- [Oral cancer speech corpus for the paper "Objective speech outcomes after 
-  surgical treatment for oral cancer: An acoustic analysis of a 
-  spontaneous speech corpus containing 32.850 tokens"](https://zenodo.org/records/6401713 "Dataset accompanying the paper 'Objective speech outcomes after surgical treatment for oral cancer: An acoustic analysis of a spontaneous speech corpus containing 32.850 tokens'") by *Bence Halpern* & *Thomas Tienkamp* (US English)
+- [Oral cancer speech corpus for the paper "Objective speech outcomes after surgical treatment for oral cancer: An acoustic analysis of a spontaneous speech corpus containing 32.850 tokens"](https://zenodo.org/records/6401713 "Dataset accompanying the paper 'Objective speech outcomes after surgical treatment for oral cancer: An acoustic analysis of a spontaneous speech corpus containing 32.850 tokens'") by *Bence Halpern* & *Thomas Tienkamp* (US English)
 
 - [Parallel Audiobook Corpus](https://doi.org/10.7488/ds/2468) by *Ribeiro, Manuel Sam* (UK English)
 
