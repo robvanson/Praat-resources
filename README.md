@@ -32,7 +32,11 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
 
 - [Recording with Praat](https://aletheiacui.github.io/tutorials/recording_with_praat.html) by *Aletheia Cui*
 
-- [whisper.cpp](https://praat.org/manual/whisper_cpp.html) by *Anastasia Shchupak* using Whispoer speech recognition in Praat (at *Praat.org*)
+- [whisper.cpp](https://praat.org/manual/whisper_cpp.html) by *Anastasia Shchupak* using Whisper speech recognition natively in Praat (at *Praat.org*)
+
+- [Speech recognition](https://praat.org/manual/Speech_recognition.html) at *Praat.org*
+
+- [Transcription with whisper.cpp](https://praat.org/manual/transcription_with_whisper_cpp.html) by *Anastasia Shchupak* (at *Praat.org*)
 
 # Scripting
 
@@ -60,6 +64,10 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
 - [Praat_Scripts](https://github.com/romaindez/Praat_Scripts "This repository contains several open-source Praat scripts divided into two folders. They are designed to automate some of the most common tasks in speech research. They are intended to be used by researchers and students who are familiar with Praat and have some basic knowledge of scripting. Each script has a header with instructions on how to use it as well as a description of the task it performs. Please read the header carefully before using the script.") by *Romain Mendez* 
 
 - [Praat scripts](https://github.com/congzhang365/Praat "These are a small part of the my praat scripts I wrote a long time ago. I hope they can save time for people who needs similar scripts.") by *Cong Zhang*
+
+- [Praat Vocal Toolkit](https://www.praatvocaltoolkit.com/index.html "Vocal Toolkit is a free plugin for Praat with automated scripts for voice processing.") by *Ramon Corretge*
+
+- [Whisper in Praat](https://www.researchgate.net/publication/381010298_Whisper_in_Praat_v0931_Windows_macOS "The script Whisper_in_Praat is a convenient way for Praat users to create transcriptions using Whisper. The script provides a simple graphical user interface to Whisper and convert the transcription to a Praat TextGrid.") by *Gert Foget Hansen*
 
 # Special projects
 
