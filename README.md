@@ -43,7 +43,7 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
   
   - Install *wget* with *Homebrew*
     
-    `brew install wget`
+    `brew install wget`     
   
   - Open a terminal window and issue the following commands:   
     ``` 
