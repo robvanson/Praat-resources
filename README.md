@@ -45,11 +45,16 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
     
     `brew install wget`
   
-  - Open a terminal window and issue the following commands: ` 
+  - Open a terminal window and issue the following commands:   
+    ` 
     mkdir -p ~/Library/Preferences/Praat\ Prefs/models/whispercpp/  
+    
     cd ~/Library/Preferences/Praat\ Prefs/models/whispercpp/  
+    
     wget https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-tiny-q5_1.bin  
+    
     cd -   
+    
     `
     "ggml-tiny-q5_1.bin" can be replaced by the model of your choice.
 
