@@ -33,10 +33,22 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
 - [Recording with Praat](https://aletheiacui.github.io/tutorials/recording_with_praat.html) by *Aletheia Cui*
 
 - [whisper.cpp](https://praat.org/manual/whisper_cpp.html) by *Anastasia Shchupak* using Whisper speech recognition natively in Praat (at *Praat.org*)
-
-- [Speech recognition](https://praat.org/manual/Speech_recognition.html) at *Praat.org*
+  [Speech recognition](https://praat.org/manual/Speech_recognition.html) by *Anastasia Shchupak* (at *Praat.org*)
 
 - [Transcription with whisper.cpp](https://praat.org/manual/transcription_with_whisper_cpp.html) by *Anastasia Shchupak* (at *Praat.org*)
+  
+  Installing a Whisper model for *Praat* is easy on a Mac from the terminal:
+  
+  - Install *wget* with *Homebrew*
+    
+    `brew install wget`
+  
+  - Open a terminal window and issue the following commands: `
+    mkdir -p ~/Library/Preferences/Praat\ Prefs/models/whispercpp/  
+    cd ~/Library/Preferences/Praat\ Prefs/models/whispercpp/  
+    wget https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-tiny-q5_1.bin  
+    cd -`
+    "ggml-tiny-q5_1.bin" can be replaced by the model of your choice.
 
 # Scripting
 
