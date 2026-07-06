@@ -32,12 +32,14 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
 
 - [Recording with Praat](https://aletheiacui.github.io/tutorials/recording_with_praat.html) by *Aletheia Cui*
 
-- [whisper.cpp](https://praat.org/manual/whisper_cpp.html) by *Anastasia Shchupak* using Whisper speech recognition natively in Praat (at *Praat.org*)
-  [Speech recognition](https://praat.org/manual/Speech_recognition.html) by *Anastasia Shchupak* (at *Praat.org*)
+- [whisper.cpp](https://praat.org/manual/whisper_cpp.html) by *Anastasia Shchupak* (at *Praat.org*)
+  Using Whisper speech recognition natively in Praat
+
+- [Speech recognition](https://praat.org/manual/Speech_recognition.html) by *Anastasia Shchupak* (at *Praat.org*)
 
 - [Transcription with whisper.cpp](https://praat.org/manual/transcription_with_whisper_cpp.html) by *Anastasia Shchupak* (at *Praat.org*)
   
-  In addition to the instructions at *Praat.org*, installing a Whisper model for *Praat* is easy on a Mac from the terminal:
+  In addition to the instructions at *Praat.org*, installing a *Whisper* model for *Praat* is also easy on a Mac from the terminal:
   
   - Install *wget* with *Homebrew*
     
@@ -100,3 +102,15 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
 - [Parallel Audiobook Corpus](https://doi.org/10.7488/ds/2468) by *Ribeiro, Manuel Sam* (UK English)
 
 - [ASVspoof corpora](https://www.asvspoof.org/) from the *Automatic Speaker Verification Spoofing and Countermeasures Challenge*
+
+- [MLCommons Datasets](https://mlcommons.org/datasets/ "Evaluating AI systems depends on rigorous, standardized test datasets. MLCommons builds open, large-scale, and diverse datasets and a rich ecosystem of techniques and tools for AI data, helping the broader community deliver more accurate and safer AI systems.") by *ML Commons*
+
+- [Clarin Spoken Corpera](https://www.clarin.eu/resource-families/spoken-corpora "Corpora of spoken language contain transcriptions of spontaneous or planned speech, such as broadcast news or elicited narratives and dialogues. They are often aligned with the accompanying recordings. They are an invaluable resource for various kinds of linguistic research,  such as phonology, conversational analysis, and dialectology. Such  corpora are carefully sampled and rich in sociodemographic metadata.") by *Clarin* (Common Language Resources and Technology Infrastructure)
+
+- [Open Speech and Language Resources](https://www.openslr.org/resources.php "OpenSLR is a site devoted to hosting speech and language resources, such as training corpora for speech recognition, and software related to speech recognition. We intend to be a convenient place for anyone to put resources that they have created, so that they can be downloaded publicly.") by *openslr.org*
+
+- [A list of accessible speech corpora for ASR, TTS, and other Speech Technologies](https://github.com/coqui-ai/open-speech-corpora "This list has a preference for free (i.e. no $ cost) and truly open corpora (e.g. released under a Creative Commons license or a Community Data License Agreement. Not all these corpora may meet those criteria, but all the following corpora are accessible and usable for research and/or commercial use.")  by *coqui*
+
+- [VoxForge](https://www.voxforge.org/ "VoxForge is an open speech dataset that was set up to collect transcribed speech for use with Free and Open Source Speech Recognition Engines (on Linux, Windows and Mac). We will make available all submitted audio files under the GPL license, and then 'compile' them into acoustic models for use with Open Source speech recognition engines such as CMU Sphinx, ISIP, Julius  and HTK (note: HTK has distribution restrictions).") 
+
+- [Librivox](https://librivox.org/ "LibriVox volunteers record chapters of books in the public domain, and then we release the audio files back onto the net for free. All our audio is in the public domain, so you may use it for whatever purpose you wish.") (free public domain audiobooks)
