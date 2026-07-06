@@ -37,7 +37,7 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
 
 - [Transcription with whisper.cpp](https://praat.org/manual/transcription_with_whisper_cpp.html) by *Anastasia Shchupak* (at *Praat.org*)
   
-  Installing a Whisper model for *Praat* is easy on a Mac from the terminal:
+  In addition to the instructions at *Praat.org*, installing a Whisper model for *Praat* is easy on a Mac from the terminal:
   
   - Install *wget* with *Homebrew*
     
