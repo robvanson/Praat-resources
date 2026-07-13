@@ -131,6 +131,10 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
 
 - [VoxForge](https://www.voxforge.org/ "VoxForge is an open speech dataset that was set up to collect transcribed speech for use with Free and Open Source Speech Recognition Engines (on Linux, Windows and Mac). We will make available all submitted audio files under the GPL license, and then 'compile' them into acoustic models for use with Open Source speech recognition engines such as CMU Sphinx, ISIP, Julius  and HTK (note: HTK has distribution restrictions).") 
 
+- [ELRA Catalogue](https://catalog.elra.info/en-us/repository/search/?q=&selected_facets=restrictionsOfUseFilter_exact%3ANon%20Commercial%20Use) (non commercial use)
+
+- 
+
 ----
 
 [^Mac]: Installing a *Whisper* model for *Praat* is also easy on a Mac from the terminal
