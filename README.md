@@ -89,7 +89,7 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
 
 - [The IFA Spoken Language Corpus](https://zenodo.org/records/14904090 "The IFA Spoken Language corpus is a free (GPL) database of hand-segmented **Dutch** speech") by *Rob van Son* (Dutch)
 
-- [Oral cancer speech corpus for the paper "Objective speech outcomes after surgical treatment for oral cancer: An acoustic analysis of a spontaneous speech corpus containing 32.850 tokens"](https://zenodo.org/records/6401713 "Dataset accompanying the paper 'Objective speech outcomes after surgical treatment for oral cancer: An acoustic analysis of a spontaneous speech corpus containing 32.850 tokens'") by *Bence Halpern* & *Thomas Tienkamp* (US English)
+- [Oral cancer speech corpus](https://zenodo.org/records/6401713 "Dataset accompanying the paper 'Objective speech outcomes after surgical treatment for oral cancer: An acoustic analysis of a spontaneous speech corpus containing 32.850 tokens'") by *Bence Halpern* & *Thomas Tienkamp* (US English)
 
 - [Corpus Pathologische en Normale Spraak (COPAS)](https://taalmaterialen.ivdnt.org/download/tstc-corpus-pathologische-en-normale-spraak-copas/ "The Corpus Pathologische en Normale Spraak (COPAS) contains recordings of the DIA (Dutch Intelligibility Assessment). In addition, it also contains read-aloud text passages, individual sentences and spontaneous speech of some of the speakers. The corpus contains recordings of almost 200 Flemish pathological speakers (= speakers with an audible disorder) and 122 Flemish control speakers. The necessary annotations were provided.") by *INT Taalmaterialen* (Flemish, free license required)
 
