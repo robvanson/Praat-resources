@@ -75,13 +75,21 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
 
 - [Praat Plugin: AudioTools](https://mashav.com/sha/Praat%20AudioTools/ "A collection of more than 415 scripts for audio processing, analysis, and synthesis in Praat. Developed for composers, sound designers, and researchers, the toolkit extends Praat’s phonetic analysis environment into a complete offline sound laboratory, enabling granular synthesis, adaptive filtering, spectral transformation, fractal reverb, multichannel spatialisation, and machine-learning-driven audio effects.") by *Shai Cohen*
 
-# Special projects
+-  Special projects
 
 - [Vowel Triangle](https://robvanson.codeberg.page/VowelTriangle/ "A Praat script to calculate the Vowel Space Area from labelled and unlabelled running speech") by *Rob van Son* 
 
 - [Pitch and Intensity ranges](https://github.com/robvanson/Pitch_and_Intensity_ranges "Praat script to plot the relation between Pitch and Intensity in speech. This becomes a Phonetogram if used on sustained vowels tracing the extremes in pitch and loudness.") by *Rob van Son*
 
 - [Pseudonymize Speech](https://robvanson.codeberg.page/PseudonymizeSpeech/ "A [*Praat*](http://www.praat.org) script to pseudonymize speech. That is, *Pseudonymize Speech* tries to make it difficult to recognize a speaker while still retaining relevant (para-)linguistic features and intelligibility. There is a  trade-off between the level of *pseudonymization* and the (para-)linguistic features retained.") by *Rob van Son*
+
+# Praat from Python
+
+- [praatio](https://pypi.org/project/praatio/ "A library for working with praat, time aligned audio transcripts, and audio files *that comes with batteries included*. Praat uses a file format called textgrids, which are time aligned speech transcripts. This library isn't just a data struct for reading and writing textgrids--many utilities are provided to make it easy to work with with transcripts and associated audio files. This library also provides some other tools for use with praat.") at *pypi.org*
+
+- [Praanscribe](https://github.com/alicagank/praanscribe "Praanscribe is an open-source Python CLI application designed to automate the segmentation of parts of speech and the annotation of sounds, as much as possible, using Praat.") by *Ali Çağan Kaya*
+
+- [Parselmouth: Praat in Python, the Pythonic way](https://github.com/YannickJadoul/Parselmouth "Though other attempts have been made at porting functionality from Praat to Python, Parselmouth is unique in its aim to provide a complete and Pythonic interface to the internal Praat code.") by *Yannick Jadoul*
 
 # Useful speech corpora
 
