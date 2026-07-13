@@ -46,12 +46,14 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
     `brew install wget`     
   
   - Open a terminal window and issue the following commands:   
-    ``` 
+    
+    ```
     mkdir -p ~/Library/Preferences/Praat\ Prefs/models/whispercpp/   
     cd ~/Library/Preferences/Praat\ Prefs/models/whispercpp/   
     wget https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-tiny-q5_1.bin   
     cd -    
     ```
+    
     "ggml-tiny-q5_1.bin" can be replaced by the model of your choice.
 
 # Scripting
@@ -84,6 +86,8 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
 - [Praat Vocal Toolkit](https://www.praatvocaltoolkit.com/index.html "Vocal Toolkit is a free plugin for Praat with automated scripts for voice processing.") by *Ramon Corretge*
 
 - [Whisper in Praat](https://www.researchgate.net/publication/381010298_Whisper_in_Praat_v0931_Windows_macOS "The script Whisper_in_Praat is a convenient way for Praat users to create transcriptions using Whisper. The script provides a simple graphical user interface to Whisper and convert the transcription to a Praat TextGrid.") by *Gert Foget Hansen*
+
+- [Praat Plugin: AudioTools](https://mashav.com/sha/Praat%20AudioTools/ "A collection of more than 415 scripts for audio processing, analysis, and synthesis in Praat. Developed for composers, sound designers, and researchers, the toolkit extends Praat’s phonetic analysis environment into a complete offline sound laboratory, enabling granular synthesis, adaptive filtering, spectral transformation, fractal reverb, multichannel spatialisation, and machine-learning-driven audio effects.") by *Shai Cohen*
 
 # Special projects
 
