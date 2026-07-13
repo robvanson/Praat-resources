@@ -38,7 +38,7 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
 - [Speech recognition](https://praat.org/manual/Speech_recognition.html) by *Anastasia Shchupak* (at *Praat.org*)
 
 - [Transcription with whisper.cpp](https://praat.org/manual/transcription_with_whisper_cpp.html) by *Anastasia Shchupak* (at *Praat.org*)
-  In addition to the instructions at *Praat.org*, installing a *Whisper* model for *Praat* is also easy on a Mac from the terminal [^Installing Whisper.ccp on Mac]
+  In addition to the instructions at *Praat.org*, installing a *Whisper* model for *Praat* is also easy on a Mac from the terminal [^Mac]
 
 # Scripting
 
@@ -105,24 +105,14 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
 
 - [Librivox](https://librivox.org/ "LibriVox volunteers record chapters of books in the public domain, and then we release the audio files back onto the net for free. All our audio is in the public domain, so you may use it for whatever purpose you wish.") (free public domain audiobooks)
 
-
-
 ----
 
-
-
-[^InstallingWhisper.ccponMac]: <sup>1</sup>: installing a *Whisper* model for *Praat* is also easy on a Mac from the terminal
-
+[^Mac]: <sup>1</sup>: installing a *Whisper* model for *Praat* is also easy on a Mac from the terminal
 Install *wget* with [*Homebrew*](https://brew.sh/)
-
 `brew install wget`
-
 Open a terminal window and issue the following commands:<pre>mkdir -p ~/Library/Preferences/Praat\ Prefs/models/whispercpp/
-
 cd ~/Library/Preferences/Praat\ Prefs/models/whispercpp/
-
 wget https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-tiny-q5_1.bin
-
 cd - </pre>
 
 "ggml-tiny-q5_1.bin" can be replaced by the model of your choice.
