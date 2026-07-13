@@ -77,11 +77,11 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
 
 # Special projects
 
-- [Vowel Triangle](https://robvanson.github.io/VowelTriangle/ "A [*Praat*](http://www.praat.org) script to calculate the Vowel Space Area from labelled and unlabelled running speech") by *Rob van Son* 
+- [Vowel Triangle](https://robvanson.codeberg.page/VowelTriangle/ "A [*Praat*](http://www.praat.org) script to calculate the Vowel Space Area from labelled and unlabelled running speech") by *Rob van Son* 
 
 - [Pitch and Intensity ranges](https://github.com/robvanson/Pitch_and_Intensity_ranges "Praat script to plot the relation between Pitch and Intensity in speech. This becomes a Phonetogram if used on sustained vowels tracing the extremes in pitch and loudness.") by *Rob van Son*
 
-- [Pseudonymize Speech](https://robvanson.github.io/PseudonymizeSpeech/ "A [*Praat*](http://www.praat.org) script to pseudonymize speech. That is, *Pseudonymize Speech* tries to make it difficult to recognize a speaker while still retaining relevant (para-)linguistic features and intelligibility. There is a  trade-off between the level of *pseudonymization* and the (para-)linguistic features retained.") by *Rob van Son*
+- [Pseudonymize Speech](https://robvanson.codeberg.page/PseudonymizeSpeech/ "A [*Praat*](http://www.praat.org) script to pseudonymize speech. That is, *Pseudonymize Speech* tries to make it difficult to recognize a speaker while still retaining relevant (para-)linguistic features and intelligibility. There is a  trade-off between the level of *pseudonymization* and the (para-)linguistic features retained.") by *Rob van Son*
 
 # Useful speech corpora
 
