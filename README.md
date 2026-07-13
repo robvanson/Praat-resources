@@ -59,7 +59,7 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
 
 - [Some basic praat scripts](https://feelins.github.io/Praat_Scripts/ "This project includes some commonly used scripts of Praat, combined with simple examples to explain how to use these scripts, each independent directory contains sample files and result files, which are suitable for those who have some understanding of the basic operations of Praat, beginners who have a good understanding of basic acoustic parameters such as Duration, fundamental frequency and formant.") by *Pengfei Shao*
 
-- [SpeCT - The Speech Corpus Toolkit for Praat)](https://lennes.github.io/spect/ "The aim of the Speech Corpus Toolkit for Praat (SpeCT) is to provide an organized inventory of well-documented Praat scripts that can be easily downloaded, modified and used in order to perform small tasks during the various stages of building, organizing, annotating, analysing, searching and exporting data from a speech corpus.") by *Mietta Lennis*
+- [SpeCT - The Speech Corpus Toolkit for Praat](https://lennes.github.io/spect/ "The aim of the Speech Corpus Toolkit for Praat (SpeCT) is to provide an organized inventory of well-documented Praat scripts that can be easily downloaded, modified and used in order to perform small tasks during the various stages of building, organizing, annotating, analysing, searching and exporting data from a speech corpus.") by *Mietta Lennis*
 
 - [Praat scripts](https://www.acsu.buffalo.edu/~cdicanio/scripts.html "tonal and accentual properties of words") by *Christian DiCanio - University at Buffalo*
 
