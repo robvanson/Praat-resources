@@ -77,7 +77,7 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
 
 # Special projects
 
-- [Vowel Triangle](https://robvanson.codeberg.page/VowelTriangle/ "A [*Praat*](http://www.praat.org) script to calculate the Vowel Space Area from labelled and unlabelled running speech") by *Rob van Son* 
+- [Vowel Triangle](https://robvanson.codeberg.page/VowelTriangle/ "A Praat script to calculate the Vowel Space Area from labelled and unlabelled running speech") by *Rob van Son* 
 
 - [Pitch and Intensity ranges](https://github.com/robvanson/Pitch_and_Intensity_ranges "Praat script to plot the relation between Pitch and Intensity in speech. This becomes a Phonetogram if used on sustained vowels tracing the extremes in pitch and loudness.") by *Rob van Son*
 
@@ -90,6 +90,16 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
 - [The IFA Spoken Language Corpus](https://zenodo.org/records/14904090 "The IFA Spoken Language corpus is a free (GPL) database of hand-segmented **Dutch** speech") by *Rob van Son* (Dutch)
 
 - [Oral cancer speech corpus for the paper "Objective speech outcomes after surgical treatment for oral cancer: An acoustic analysis of a spontaneous speech corpus containing 32.850 tokens"](https://zenodo.org/records/6401713 "Dataset accompanying the paper 'Objective speech outcomes after surgical treatment for oral cancer: An acoustic analysis of a spontaneous speech corpus containing 32.850 tokens'") by *Bence Halpern* & *Thomas Tienkamp* (US English)
+
+- [Corpus Pathologische en Normale Spraak (COPAS)](https://taalmaterialen.ivdnt.org/download/tstc-corpus-pathologische-en-normale-spraak-copas/ "The Corpus Pathologische en Normale Spraak (COPAS) contains recordings of the DIA (Dutch Intelligibility Assessment). In addition, it also contains read-aloud text passages, individual sentences and spontaneous speech of some of the speakers. The corpus contains recordings of almost 200 Flemish pathological speakers (= speakers with an audible disorder) and 122 Flemish control speakers. The necessary annotations were provided.") by *INT Taalmaterialen* (free license required)
+
+- [UASpeech](https://speechtechnology.web.illinois.edu/uaspeech/ "The UA-Speech corpus was published in 2008. It originally contained recordings of nineteen individuals with dysarthria as a correlate of cerebral palsy, plus age-matched and gender-matched controls. Of the original nineteen, three have removed permission over the years, and/or their data has been corrupted, so that the distribution now contains data from sixteen speakers.") by *Statistical Speech Technology Group* (free license required)
+
+- [The TORGO database](https://www.cs.toronto.edu/~complingweb/data/TORGO/torgo.html "The TORGO database of dysarthric articulation consists of aligned acoustics and measured 3D  articulatory features from speakers with either cerebral palsy (CP) or amyotrophic lateral sclerosis (ALS), which are two of the most prevalent causes of speech disability (Kent and Rosen, 2004), and matchd controls.") by *The University of Toronto* (NC free license required)
+
+- [Corpora of Disordered Speech](https://www.clarin.eu/resource-families/corpora-disordered-speech) by *Clarin* (Common Language Resources and Technology Infrastructure)
+
+- [Pathological Speech (TORGO + UA-Speech + LibriSpeech Normal)](https://huggingface.co/datasets/resproj007/pathological_speech "Mixed-corpus speech dataset for training and evaluating controllable speech-synthesis and severity-classification models. Three corpora are merged with unified metadata so a single model can learn severity- and gender-conditioned generation without confounds.") at *Hugging Face*
 
 - [Parallel Audiobook Corpus](https://doi.org/10.7488/ds/2468) by *Ribeiro, Manuel Sam* (UK English)
 
