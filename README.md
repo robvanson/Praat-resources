@@ -75,7 +75,7 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
 
 - [Praat Plugin: AudioTools](https://mashav.com/sha/Praat%20AudioTools/ "A collection of more than 415 scripts for audio processing, analysis, and synthesis in Praat. Developed for composers, sound designers, and researchers, the toolkit extends Praat’s phonetic analysis environment into a complete offline sound laboratory, enabling granular synthesis, adaptive filtering, spectral transformation, fractal reverb, multichannel spatialisation, and machine-learning-driven audio effects.") by *Shai Cohen*
 
--  Special projects
+- Special projects
 
 - [Vowel Triangle](https://robvanson.codeberg.page/VowelTriangle/ "A Praat script to calculate the Vowel Space Area from labelled and unlabelled running speech") by *Rob van Son* 
 
@@ -93,19 +93,21 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
 
 # Useful speech corpora
 
+- [Corpus Gesproken Nederlands (CGN)](https://taalmaterialen.ivdnt.org/download/tstc-corpus-gesproken-nederlands/ "A collection of about 900 hours spoken standard Dutch from Flanders and  the Netherlands. The speech recordings (spontaneous and prepared) are lined up with various transcriptions (including orthographic, phonetic) and annotations (syntactic, POS tags). Metadata, lexicons and frequency lists are also part of the CGN.") at *INT Taalmaterialen* (Dutch and Flemish, free NC license required)
+
+- [JASMIN-spraakcorpus](https://taalmaterialen.ivdnt.org/download/tstc-jasmin-spraakcorpus/ "The JASMIN speech corpus is a collection of approximately 115 ours of Dutch speech from adolescents, non-native speakers and seniors living in Flanders and the Netherlands. The speech recordings consist of read-aloud texts and human-machine dialogues, and are enriched with various annotation layers. The JASMIN speech corpus complements the Corpus Gesproken Nederlands (CGN).") at *INT Taalmaterialen* (Dutch and Flemish, free NC license required)
+
 - [IFA Dialog Video corpus](https://zenodo.org/records/14906857 "The IFA Dialog Video corpus is a collection of annotated video recordings of friendly Face-to-Face dialogs." ) by *Rob van Son* (Dutch)
 
 - [The IFA Spoken Language Corpus](https://zenodo.org/records/14904090 "The IFA Spoken Language corpus is a free (GPL) database of hand-segmented **Dutch** speech") by *Rob van Son* (Dutch)
 
 - [Oral cancer speech corpus](https://zenodo.org/records/6401713 "Dataset accompanying the paper 'Objective speech outcomes after surgical treatment for oral cancer: An acoustic analysis of a spontaneous speech corpus containing 32.850 tokens'") by *Bence Halpern* & *Thomas Tienkamp* (US English)
 
-- [Corpus Pathologische en Normale Spraak (COPAS)](https://taalmaterialen.ivdnt.org/download/tstc-corpus-pathologische-en-normale-spraak-copas/ "The Corpus Pathologische en Normale Spraak (COPAS) contains recordings of the DIA (Dutch Intelligibility Assessment). In addition, it also contains read-aloud text passages, individual sentences and spontaneous speech of some of the speakers. The corpus contains recordings of almost 200 Flemish pathological speakers (= speakers with an audible disorder) and 122 Flemish control speakers. The necessary annotations were provided.") by *INT Taalmaterialen* (Flemish, free license required)
+- [Corpus Pathologische en Normale Spraak (COPAS)](https://taalmaterialen.ivdnt.org/download/tstc-corpus-pathologische-en-normale-spraak-copas/ "The Corpus Pathologische en Normale Spraak (COPAS) contains recordings of the DIA (Dutch Intelligibility Assessment). In addition, it also contains read-aloud text passages, individual sentences and spontaneous speech of some of the speakers. The corpus contains recordings of almost 200 Flemish pathological speakers (= speakers with an audible disorder) and 122 Flemish control speakers. The necessary annotations were provided.") at *INT Taalmaterialen* (Flemish, free license required)
 
 - [UASpeech](https://speechtechnology.web.illinois.edu/uaspeech/ "The UA-Speech corpus was published in 2008. It originally contained recordings of nineteen individuals with dysarthria as a correlate of cerebral palsy, plus age-matched and gender-matched controls. Of the original nineteen, three have removed permission over the years, and/or their data has been corrupted, so that the distribution now contains data from sixteen speakers.") by *Statistical Speech Technology Group* (US English, free license required)
 
 - [The TORGO database](https://www.cs.toronto.edu/~complingweb/data/TORGO/torgo.html "The TORGO database of dysarthric articulation consists of aligned acoustics and measured 3D  articulatory features from speakers with either cerebral palsy (CP) or amyotrophic lateral sclerosis (ALS), which are two of the most prevalent causes of speech disability (Kent and Rosen, 2004), and matchd controls.") by *The University of Toronto* (Canadian English, NC free license required)
-
-- [Corpora of Disordered Speech](https://www.clarin.eu/resource-families/corpora-disordered-speech) by *Clarin* (Common Language Resources and Technology Infrastructure)
 
 - [Pathological Speech (TORGO + UA-Speech + LibriSpeech Normal)](https://huggingface.co/datasets/resproj007/pathological_speech "Mixed-corpus speech dataset for training and evaluating controllable speech-synthesis and severity-classification models. Three corpora are merged with unified metadata so a single model can learn severity- and gender-conditioned generation without confounds.") at *Hugging Face*
 
@@ -115,15 +117,19 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
 
 - [MLCommons Datasets](https://mlcommons.org/datasets/ "Evaluating AI systems depends on rigorous, standardized test datasets. MLCommons builds open, large-scale, and diverse datasets and a rich ecosystem of techniques and tools for AI data, helping the broader community deliver more accurate and safer AI systems.") by *ML Commons*
 
+- [Librivox](https://librivox.org/ "LibriVox volunteers record chapters of books in the public domain, and then we release the audio files back onto the net for free. All our audio is in the public domain, so you may use it for whatever purpose you wish.") (free public domain audiobooks)
+
+### Link lists to speech corpora
+
 - [Clarin Spoken Corpera](https://www.clarin.eu/resource-families/spoken-corpora "Corpora of spoken language contain transcriptions of spontaneous or planned speech, such as broadcast news or elicited narratives and dialogues. They are often aligned with the accompanying recordings. They are an invaluable resource for various kinds of linguistic research,  such as phonology, conversational analysis, and dialectology. Such  corpora are carefully sampled and rich in sociodemographic metadata.") by *Clarin* (Common Language Resources and Technology Infrastructure)
+
+- [Corpora of Disordered Speech](https://www.clarin.eu/resource-families/corpora-disordered-speech) by *Clarin* (Common Language Resources and Technology Infrastructure)
 
 - [Open Speech and Language Resources](https://www.openslr.org/resources.php "OpenSLR is a site devoted to hosting speech and language resources, such as training corpora for speech recognition, and software related to speech recognition. We intend to be a convenient place for anyone to put resources that they have created, so that they can be downloaded publicly.") by *openslr.org*
 
 - [A list of accessible speech corpora for ASR, TTS, and other Speech Technologies](https://github.com/coqui-ai/open-speech-corpora "This list has a preference for free (i.e. no $ cost) and truly open corpora (e.g. released under a Creative Commons license or a Community Data License Agreement. Not all these corpora may meet those criteria, but all the following corpora are accessible and usable for research and/or commercial use.")  by *coqui*
 
 - [VoxForge](https://www.voxforge.org/ "VoxForge is an open speech dataset that was set up to collect transcribed speech for use with Free and Open Source Speech Recognition Engines (on Linux, Windows and Mac). We will make available all submitted audio files under the GPL license, and then 'compile' them into acoustic models for use with Open Source speech recognition engines such as CMU Sphinx, ISIP, Julius  and HTK (note: HTK has distribution restrictions).") 
-
-- [Librivox](https://librivox.org/ "LibriVox volunteers record chapters of books in the public domain, and then we release the audio files back onto the net for free. All our audio is in the public domain, so you may use it for whatever purpose you wish.") (free public domain audiobooks)
 
 ----
 
