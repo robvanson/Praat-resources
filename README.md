@@ -48,7 +48,7 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
 
 - [Scripting and tools](https://www.mauriciofigueroa.cl/04_scripts/04_scripts.html "Here you'll find some Praat programming aids, various scripts,  scripting manuals and workshops about using Praat in production and  perception studies in speech sciences.") by *Mauricio Figueroa*
 
-- [Speech Signal Processing with Praat (PDF)](https://www.fon.hum.uva.nl/david/sspbook/sspbook.pdf) by *David Weenink* (328 pages)    
+- [Speech Signal Processing with Praat (PDF)](https://www.fon.hum.uva.nl/david/sspbook/sspbook.pdf "The aim of this book is to give the non-mathematically oriented reader insight into the speech processing facilities of the computer program Praat. This program is freely available from Praat’s website at http://www.praat.org and versions of the program exist for all major platforms: Linux, Windows and Mac OS. Versions for mobile platforms are not supported yet.") by *David Weenink* (328 pages)    
   A comprehensive book on using *Praat* for *SSP*
 
 # Script repositories
