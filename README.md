@@ -85,11 +85,15 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
 
 # Praat from Python
 
-- [praatio](https://pypi.org/project/praatio/ "A library for working with praat, time aligned audio transcripts, and audio files *that comes with batteries included*. Praat uses a file format called textgrids, which are time aligned speech transcripts. This library isn't just a data struct for reading and writing textgrids--many utilities are provided to make it easy to work with with transcripts and associated audio files. This library also provides some other tools for use with praat.") at *pypi.org*
+- [praatIO - GitHub](https://github.com/timmahrt/praatIO "A python library for working with praat, textgrids, time aligned audio transcripts, and audio files. It is primarily used for extracting features from and making manipulations on audio files given hierarchical time-aligned transcriptions (utterance > word > syllable > phone, etc). -- GitHub") by *timarth*
+
+- [praatio](https://pypi.org/project/praatio/ "A library for working with praat, time aligned audio transcripts, and audio files that comes with batteries included. Praat uses a file format called textgrids, which are time aligned speech transcripts. This library isn't just a data struct for reading and writing textgrids--many utilities are provided to make it easy to work with with transcripts and associated audio files. This library also provides some other tools for use with praat.) at *pypi.org* (library)
 
 - [Praanscribe](https://github.com/alicagank/praanscribe "Praanscribe is an open-source Python CLI application designed to automate the segmentation of parts of speech and the annotation of sounds, as much as possible, using Praat.") by *Ali Çağan Kaya*
 
-- [Parselmouth: Praat in Python, the Pythonic way](https://github.com/YannickJadoul/Parselmouth "Though other attempts have been made at porting functionality from Praat to Python, Parselmouth is unique in its aim to provide a complete and Pythonic interface to the internal Praat code.") by *Yannick Jadoul*
+- [Parselmouth - GitHub](https://github.com/YannickJadoul/Parselmouth "Though other attempts have been made at porting functionality from Praat to Python, Parselmouth is unique in its aim to provide a complete and Pythonic interface to the internal Praat code.") by *Yannick Jadoul*
+
+- [praat-parselmouth · PyPI](https://pypi.org/project/praat-parselmouth/ "Though other attempts have been made at porting functionality from Praat to Python, Parselmouth is unique in its aim to provide a complete and Pythonic interface to the internal Praat code. While other projects either wrap Praat's scripting language or reimplementing parts of Praat's functionality in Python, Parselmouth directly accesses Praat's C/C++ code (which means the algorithms and their output are exactly the same as in Praat) and provides efficient access to the program's data, but also provides an interface that looks no different from any other Python library.") at *pypi.org* (library)
 
 # Useful speech corpora
 
@@ -132,8 +136,6 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
 - [VoxForge](https://www.voxforge.org/ "VoxForge is an open speech dataset that was set up to collect transcribed speech for use with Free and Open Source Speech Recognition Engines (on Linux, Windows and Mac). We will make available all submitted audio files under the GPL license, and then 'compile' them into acoustic models for use with Open Source speech recognition engines such as CMU Sphinx, ISIP, Julius  and HTK (note: HTK has distribution restrictions).") 
 
 - [ELRA Catalogue](https://catalog.elra.info/en-us/repository/search/?q=&selected_facets=restrictionsOfUseFilter_exact%3ANon%20Commercial%20Use) (non commercial use)
-
-- 
 
 ----
 
