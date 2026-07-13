@@ -107,12 +107,12 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
 
 ----
 
-[^Mac]: <sup>1</sup>: installing a *Whisper* model for *Praat* is also easy on a Mac from the terminal
+[^Mac]: <sup>1</sup>: Installing a *Whisper* model for *Praat* is also easy on a Mac from the terminal
 Install *wget* with [*Homebrew*](https://brew.sh/)
 `brew install wget`
-Open a terminal window and issue the following commands:<pre>mkdir -p ~/Library/Preferences/Praat\ Prefs/models/whispercpp/
+Open a terminal window and issue the following commands:
+`mkdir -p ~/Library/Preferences/Praat\ Prefs/models/whispercpp/
 cd ~/Library/Preferences/Praat\ Prefs/models/whispercpp/
 wget https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-tiny-q5_1.bin
-cd - </pre>
-
+cd - `
 "ggml-tiny-q5_1.bin" can be replaced by the model of your choice.
