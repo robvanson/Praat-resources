@@ -6,6 +6,10 @@ Community: [Praat-Users-List](https://groups.io/g/Praat-Users-List) for all your
 
 GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
 
+----
+
+    *Below you find descriptions of the items in the tooltips (hover over the link)*
+
 # Introductions
 
 - [Praat.org introductory tutorial to Praat](https://praat.org/manual/Intro.html) 
@@ -16,7 +20,7 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
 
 # Tutorials
 
-- [Praat manuals by others](https://www.fon.hum.uva.nl/praat/manualsByOthers.html) at *Praat.org* (in several languages)
+- [Praat manuals by others](https://www.fon.hum.uva.nl/praat/manualsByOthers.html "This page lists some beginner's manuals for Praat that were written by others than Paul Boersma and David Weenink; please don’t forget to read the Intro in Praat (under Help) as well.") at *Praat.org* (in several languages)
 
 - [Praat tutorial](https://www.gouskova.com/2016/09/03/praat-tutorial/) by [*Maria Gouskova*](https://www.gouskova.com/)
 
@@ -42,7 +46,7 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
 
 # Scripting
 
-- [Scripting](https://www.fon.hum.uva.nl/praat/manual/Scripting.html) at *Praat.org*
+- [Scripting](https://www.fon.hum.uva.nl/praat/manual/Scripting.html "A *script* is a text that consists of menu commands and action commands. If you *run* the script (perhaps from a ScriptEditor), the commands are executed as if you clicked on them. You can read this tutorial sequentially with the help of the “**< 1**” and “**1 >**” buttons.") at *Praat.org*
 
 - [Praat Course](https://www.fernandabarrientos.cl/praatcourse/index.html "Welcome to my Praat course. I wrote the first version of this course in 2019 for my students at Konstanz. Most of them had a background in Phonetics, Praat (i.e. having used the GUI), and/or computer programming and thus I wrote it taking that into account. The second version had students without such background and it became obvious to me that the next version of this course will need to cater for those students as well. The third version (current) included the participation of Moritz Jakob as a teaching assistant, who also contributed to the course structure by adding further exercises and making the course progress smoother.") by *Fernanda Barrientos*
 
@@ -52,8 +56,6 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
   A comprehensive book on using *Praat* for *SSP*
 
 # Script repositories
-
-    *(description in tooltips)*
 
 - [Some basic praat scripts](https://feelins.github.io/Praat_Scripts/ "This project includes some commonly used scripts of Praat, combined with simple examples to explain how to use these scripts, each independent directory contains sample files and result files, which are suitable for those who have some understanding of the basic operations of Praat, beginners who have a good understanding of basic acoustic parameters such as Duration, fundamental frequency and formant.") by *Pengfei Shao*
 
