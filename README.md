@@ -1,5 +1,9 @@
 # Resources[^resources] for <br/> [Praat: doing phonetics by computer](https://www.praat.org)
 
+*Rob van Son, Netherlands Cancer Institute*
+
+
+
 Where to get praat: [Praat.org](https://www.praat.org)
 
 Community: [Praat-Users-List](https://groups.io/g/Praat-Users-List) for all your questions and answers
@@ -58,21 +62,21 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
 # Script repositories
 
 - [Some basic praat scripts](https://feelins.github.io/Praat_Scripts/ "This project includes some commonly used scripts of Praat, combined with simple examples to explain how to use these scripts, each independent directory contains sample files and result files, which are suitable for those who have some understanding of the basic operations of Praat, beginners who have a good understanding of basic acoustic parameters such as Duration, fundamental frequency and formant.") by *Pengfei Shao*
-- [SpeCT - The Speech Corpus Toolkit for Praat](https://lennes.github.io/spect/ "The aim of the Speech Corpus Toolkit for Praat (SpeCT) is to provide an organized inventory of well-documented Praat scripts that can be easily downloaded, modified and used in order to perform small tasks during the various stages of building, organizing, annotating, analysing, searching and exporting data from a speech corpus.") by *Mietta Lennis*
+- [SpeCT - The Speech Corpus Toolkit for Praat](https://lennes.github.io/spect/ "The aim of the Speech Corpus Toolkit for Praat (SpeCT) is to provide an organized inventory of well-documented Praat scripts that can be easily downloaded, modified and used in order to perform small tasks during the various stages of building, organizing, annotating, analysing, searching and exporting data from a speech corpus.") by *Mietta Lennis - University of Helsinki*
 
 - [Praat scripts](https://www.acsu.buffalo.edu/~cdicanio/scripts.html "tonal and accentual properties of words") by *Christian DiCanio - University at Buffalo*
 
-- [Praat Scripts](http://www.mattwinn.com/praat.html "Here you can find some of the scripts that I use most often in my research. There are simple things like measuring intensity or duration, and also some more complicated procedures like speech manipulation and cochlear implant simulation.") by *Matthew Winn*
+- [Praat Scripts](http://www.mattwinn.com/praat.html "Here you can find some of the scripts that I use most often in my research. There are simple things like measuring intensity or duration, and also some more complicated procedures like speech manipulation and cochlear implant simulation.") by *Matthew Winn - University of Minnesota*
 
 - [Praat_Scripts](https://github.com/romaindez/Praat_Scripts "This repository contains several open-source Praat scripts divided into two folders. They are designed to automate some of the most common tasks in speech research. They are intended to be used by researchers and students who are familiar with Praat and have some basic knowledge of scripting. Each script has a header with instructions on how to use it as well as a description of the task it performs. Please read the header carefully before using the script.") by *Romain Mendez* 
 
-- [Praat scripts](https://github.com/congzhang365/Praat "These are a small part of the my praat scripts I wrote a long time ago. I hope they can save time for people who needs similar scripts.") by *Cong Zhang*
+- [Praat scripts](https://github.com/congzhang365/Praat "These are a small part of the my praat scripts I wrote a long time ago. I hope they can save time for people who needs similar scripts.") by *Cong Zhang - Newcastle University*
 
 - [Praat Vocal Toolkit](https://www.praatvocaltoolkit.com/index.html "Vocal Toolkit is a free plugin for Praat with automated scripts for voice processing.") by *Ramon Corretge*
 
-- [Whisper in Praat](https://www.researchgate.net/publication/381010298_Whisper_in_Praat_v0931_Windows_macOS "The script Whisper_in_Praat is a convenient way for Praat users to create transcriptions using Whisper. The script provides a simple graphical user interface to Whisper and convert the transcription to a Praat TextGrid.") by *Gert Foget Hansen*
+- [Whisper in Praat](https://www.researchgate.net/publication/381010298_Whisper_in_Praat_v0931_Windows_macOS "The script Whisper_in_Praat is a convenient way for Praat users to create transcriptions using Whisper. The script provides a simple graphical user interface to Whisper and convert the transcription to a Praat TextGrid.") by *Gert Foget Hansen - University of Copenhagen*
 
-- [Praat Plugin: AudioTools](https://mashav.com/sha/Praat%20AudioTools/ "A collection of more than 415 scripts for audio processing, analysis, and synthesis in Praat. Developed for composers, sound designers, and researchers, the toolkit extends Praat’s phonetic analysis environment into a complete offline sound laboratory, enabling granular synthesis, adaptive filtering, spectral transformation, fractal reverb, multichannel spatialisation, and machine-learning-driven audio effects.") by *Shai Cohen*
+- [Praat Plugin: AudioTools](https://mashav.com/sha/Praat%20AudioTools/ "A collection of more than 415 scripts for audio processing, analysis, and synthesis in Praat. Developed for composers, sound designers, and researchers, the toolkit extends Praat’s phonetic analysis environment into a complete offline sound laboratory, enabling granular synthesis, adaptive filtering, spectral transformation, fractal reverb, multichannel spatialisation, and machine-learning-driven audio effects.") by *Shai Cohen - Bar-Ilan University*
 
 ##### Special projects
 
@@ -144,7 +148,7 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
 
 ----
 
-[^resources]: Praat resource is available at:
+[^resources]: Praat resources is available at:
 - [GitHub](https://robvanson.github.io/Praat-resources/)
 - [Codeberg](https://robvanson.codeberg.page/praat-resources/)
 - [GitLab](https://gitlab.com/robvanson/Praat-resources)
