@@ -1,4 +1,4 @@
-# [Praat: doing phonetics by computer](https://www.praat.org)
+# Resources[^resources] for [Praat: doing phonetics by computer](https://www.praat.org)
 
 Where to get praat: [Praat.org](https://www.praat.org)
 
@@ -117,15 +117,19 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
 
 - [Parallel Audiobook Corpus](https://doi.org/10.7488/ds/2468) by *Ribeiro, Manuel Sam* (UK English)
 
+- [Librivox](https://librivox.org/ "LibriVox volunteers record chapters of books in the public domain, and then we release the audio files back onto the net for free. All our audio is in the public domain, so you may use it for whatever purpose you wish.") (free public domain audiobooks)
+
 - [ASVspoof corpora](https://www.asvspoof.org/) from the *Automatic Speaker Verification Spoofing and Countermeasures Challenge*
 
 - [Common Voice](https://mozilladatacollective.com/organization/cmfh0j9o10006ns07jq45h7xk "Common Voice is a free, open source platform for community-led data creation. Anyone can preserve, revitalise and elevate their language by sharing, creating and curating text and speech datasets.") by *Mozilla Data Collective*
 
 - [MLCommons Datasets](https://mlcommons.org/datasets/ "Evaluating AI systems depends on rigorous, standardized test datasets. MLCommons builds open, large-scale, and diverse datasets and a rich ecosystem of techniques and tools for AI data, helping the broader community deliver more accurate and safer AI systems.") by *ML Commons*
 
-- [Librivox](https://librivox.org/ "LibriVox volunteers record chapters of books in the public domain, and then we release the audio files back onto the net for free. All our audio is in the public domain, so you may use it for whatever purpose you wish.") (free public domain audiobooks)
+- [Voxpopuli · GitHub](https://github.com/facebookresearch/voxpopuli "A large-scale multilingual speech corpus for representation learning, semi-supervised learning and interpretation, >400k hours of speech") by *META*
 
-### Link lists to speech corpora
+- [Voxceleb 1&2· Hugging Face](https://huggingface.co/datasets/ProgramComputer/voxceleb "VoxCeleb is an audio-visual dataset consisting of short clips of human speech,extracted from interview videos uploaded to YouTube. VoxCeleb1 contains over 100,000 utterances for 1,251 celebrities, extracted from videos uploaded to YouTube. VoxCeleb2 contains over 1 million utterances for 6,112 celebrities, extracted from videos uploaded to YouTube. The development set of VoxCeleb2 has no overlap with the identities in the VoxCeleb1 or SITW datasets.") by A. Nagrani, J. S. Chung, W. Xie, A. Zisserman
+
+##### Link lists to speech corpora
 
 - [Clarin Spoken Corpera](https://www.clarin.eu/resource-families/spoken-corpora "Corpora of spoken language contain transcriptions of spontaneous or planned speech, such as broadcast news or elicited narratives and dialogues. They are often aligned with the accompanying recordings. They are an invaluable resource for various kinds of linguistic research,  such as phonology, conversational analysis, and dialectology. Such  corpora are carefully sampled and rich in sociodemographic metadata.") by *Clarin* (Common Language Resources and Technology Infrastructure)
 
@@ -140,6 +144,13 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
 - [ELRA Catalogue](https://catalog.elra.info/en-us/repository/search/?q=&selected_facets=restrictionsOfUseFilter_exact%3ANon%20Commercial%20Use) (non commercial use)
 
 ----
+
+[^resources]: Praat resource is available at:
+[GitHub](https://robvanson.github.io/Praat-resources/)
+[Codeberg](https://robvanson.codeberg.page/praat-resources/)
+[GitLab](https://gitlab.com/robvanson/Praat-resources)
+
+
 
 [^Mac]: Installing a *Whisper* model for *Praat* is also easy on a Mac from the terminal
 Install *wget* with [*Homebrew*](https://brew.sh/)    
