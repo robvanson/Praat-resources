@@ -1,4 +1,4 @@
-# Resources[^resources] for [Praat: doing phonetics by computer](https://www.praat.org)
+# Resources[^resources] for <br/> [Praat: doing phonetics by computer](https://www.praat.org)
 
 Where to get praat: [Praat.org](https://www.praat.org)
 
