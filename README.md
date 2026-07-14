@@ -89,7 +89,7 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
 
 - [praatIO - GitHub](https://github.com/timmahrt/praatIO "A python library for working with praat, textgrids, time aligned audio transcripts, and audio files. It is primarily used for extracting features from and making manipulations on audio files given hierarchical time-aligned transcriptions (utterance > word > syllable > phone, etc). -- GitHub") by *timarth*
 
-- [praatio](https://pypi.org/project/praatio/ "A library for working with praat, time aligned audio transcripts, and audio files that comes with batteries included. Praat uses a file format called textgrids, which are time aligned speech transcripts. This library isn't just a data struct for reading and writing textgrids--many utilities are provided to make it easy to work with with transcripts and associated audio files. This library also provides some other tools for use with praat.) at *pypi.org* (library)
+- [praatio](https://pypi.org/project/praatio/ "A library for working with praat, time aligned audio transcripts, and audio files that comes with batteries included. Praat uses a file format called textgrids, which are time aligned speech transcripts. This library isn't just a data struct for reading and writing textgrids--many utilities are provided to make it easy to work with with transcripts and associated audio files. This library also provides some other tools for use with praat.") at *pypi.org* (library)
 
 - [Praanscribe](https://github.com/alicagank/praanscribe "Praanscribe is an open-source Python CLI application designed to automate the segmentation of parts of speech and the annotation of sounds, as much as possible, using Praat.") by *Ali Çağan Kaya*
 
