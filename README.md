@@ -2,8 +2,6 @@
 
 *Rob van Son, Netherlands Cancer Institute*
 
-
-
 Where to get praat: [Praat.org](https://www.praat.org)
 
 Community: [Praat-Users-List](https://groups.io/g/Praat-Users-List) for all your questions and answers
@@ -62,6 +60,7 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
 # Script repositories
 
 - [Some basic praat scripts](https://feelins.github.io/Praat_Scripts/ "This project includes some commonly used scripts of Praat, combined with simple examples to explain how to use these scripts, each independent directory contains sample files and result files, which are suitable for those who have some understanding of the basic operations of Praat, beginners who have a good understanding of basic acoustic parameters such as Duration, fundamental frequency and formant.") by *Pengfei Shao*
+
 - [SpeCT - The Speech Corpus Toolkit for Praat](https://lennes.github.io/spect/ "The aim of the Speech Corpus Toolkit for Praat (SpeCT) is to provide an organized inventory of well-documented Praat scripts that can be easily downloaded, modified and used in order to perform small tasks during the various stages of building, organizing, annotating, analysing, searching and exporting data from a speech corpus.") by *Mietta Lennis - University of Helsinki*
 
 - [Praat scripts](https://www.acsu.buffalo.edu/~cdicanio/scripts.html "tonal and accentual properties of words") by *Christian DiCanio - University at Buffalo*
@@ -150,12 +149,4 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
 
 [^resources]: Praat resources is available at: [GitHub](https://robvanson.github.io/Praat-resources/), [Codeberg](https://robvanson.codeberg.page/praat-resources/), [GitLab](https://gitlab.com/robvanson/Praat-resources), [SourceForge](https://praat-resources.sourceforge.io/)
 
-[^Mac]: Installing a *Whisper* model for *Praat* is also easy on a Mac from the terminal     
-Install *wget* with [*Homebrew*](https://brew.sh/)    
-`brew install wget`    
-Open a terminal window and issue the following commands:    
-`mkdir -p ~/Library/Preferences/Praat\ Prefs/models/whispercpp/`    
-`cd ~/Library/Preferences/Praat\ Prefs/models/whispercpp/`    
-`wget https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-tiny-q5_1.bin`    
-`cd - `    
-"ggml-tiny-q5_1.bin" can be replaced by the model of your choice.
+[^Mac]: Installing a *Whisper* model for *Praat* is also easy on a Mac from the terminal <br />Install *wget* with [*Homebrew*](https://brew.sh/) <br />`brew install wget` <br />Open a terminal window and issue the following commands: <br />`mkdir -p ~/Library/Preferences/Praat\ Prefs/models/whispercpp/` <br />`cd ~/Library/Preferences/Praat\ Prefs/models/whispercpp/` <br />`wget https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-tiny-q5_1.bin` <br />`cd - ` <br />ggml-tiny-q5_1.bin" can be replaced by the model of your choice.
