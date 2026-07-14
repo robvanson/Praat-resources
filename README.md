@@ -119,6 +119,8 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
 
 - [ASVspoof corpora](https://www.asvspoof.org/) from the *Automatic Speaker Verification Spoofing and Countermeasures Challenge*
 
+- [Common Voice](https://mozilladatacollective.com/organization/cmfh0j9o10006ns07jq45h7xk "Common Voice is a free, open source platform for community-led data creation. Anyone can preserve, revitalise and elevate their language by sharing, creating and curating text and speech datasets.") by *Mozilla Data Collective*
+
 - [MLCommons Datasets](https://mlcommons.org/datasets/ "Evaluating AI systems depends on rigorous, standardized test datasets. MLCommons builds open, large-scale, and diverse datasets and a rich ecosystem of techniques and tools for AI data, helping the broader community deliver more accurate and safer AI systems.") by *ML Commons*
 
 - [Librivox](https://librivox.org/ "LibriVox volunteers record chapters of books in the public domain, and then we release the audio files back onto the net for free. All our audio is in the public domain, so you may use it for whatever purpose you wish.") (free public domain audiobooks)
