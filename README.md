@@ -91,9 +91,9 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
 
 - [praatio](https://pypi.org/project/praatio/ "A library for working with praat, time aligned audio transcripts, and audio files that comes with batteries included. Praat uses a file format called textgrids, which are time aligned speech transcripts. This library isn't just a data struct for reading and writing textgrids--many utilities are provided to make it easy to work with with transcripts and associated audio files. This library also provides some other tools for use with praat.") at *pypi.org* (library)
 
-- [Praanscribe](https://github.com/alicagank/praanscribe "Praanscribe is an open-source Python CLI application designed to automate the segmentation of parts of speech and the annotation of sounds, as much as possible, using Praat.") by *Ali Çağan Kaya*
+- [Praanscribe](https://github.com/alicagank/praanscribe "Praanscribe is an open-source Python CLI application designed to automate the segmentation of parts of speech and the annotation of sounds, as much as possible, using Praat.") by *Ali Çağan Kaya - Hacettepe Üniversitesi, Ankara*
 
-- [Parselmouth - GitHub](https://github.com/YannickJadoul/Parselmouth "Though other attempts have been made at porting functionality from Praat to Python, Parselmouth is unique in its aim to provide a complete and Pythonic interface to the internal Praat code.") by *Yannick Jadoul*
+- [Parselmouth - GitHub](https://github.com/YannickJadoul/Parselmouth "Though other attempts have been made at porting functionality from Praat to Python, Parselmouth is unique in its aim to provide a complete and Pythonic interface to the internal Praat code.") by *Yannick Jadoul - Sapienza University of Rome & Vrije Universiteit Brussel*
 
 - [praat-parselmouth · PyPI](https://pypi.org/project/praat-parselmouth/ "Though other attempts have been made at porting functionality from Praat to Python, Parselmouth is unique in its aim to provide a complete and Pythonic interface to the internal Praat code. While other projects either wrap Praat's scripting language or reimplementing parts of Praat's functionality in Python, Parselmouth directly accesses Praat's C/C++ code (which means the algorithms and their output are exactly the same as in Praat) and provides efficient access to the program's data, but also provides an interface that looks no different from any other Python library.") at *pypi.org* (library)
 
@@ -129,7 +129,7 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
 
 - [Voxpopuli · GitHub](https://github.com/facebookresearch/voxpopuli "A large-scale multilingual speech corpus for representation learning, semi-supervised learning and interpretation, >400k hours of speech") by *META*
 
-- [Voxceleb 1&2· Hugging Face](https://huggingface.co/datasets/ProgramComputer/voxceleb "VoxCeleb is an audio-visual dataset consisting of short clips of human speech,extracted from interview videos uploaded to YouTube. VoxCeleb1 contains over 100,000 utterances for 1,251 celebrities, extracted from videos uploaded to YouTube. VoxCeleb2 contains over 1 million utterances for 6,112 celebrities, extracted from videos uploaded to YouTube. The development set of VoxCeleb2 has no overlap with the identities in the VoxCeleb1 or SITW datasets.") by A. Nagrani, J. S. Chung, W. Xie, A. Zisserman
+- [Voxceleb 1&2· Hugging Face](https://huggingface.co/datasets/ProgramComputer/voxceleb "VoxCeleb is an audio-visual dataset consisting of short clips of human speech,extracted from interview videos uploaded to YouTube. VoxCeleb1 contains over 100,000 utterances for 1,251 celebrities, extracted from videos uploaded to YouTube. VoxCeleb2 contains over 1 million utterances for 6,112 celebrities, extracted from videos uploaded to YouTube. The development set of VoxCeleb2 has no overlap with the identities in the VoxCeleb1 or SITW datasets.") by *A. Nagrani, J. S. Chung, W. Xie, A. Zisserman - University of Oxford, UK*
 
 ##### Link lists to speech corpora
 
