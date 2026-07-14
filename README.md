@@ -58,7 +58,6 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
 # Script repositories
 
 - [Some basic praat scripts](https://feelins.github.io/Praat_Scripts/ "This project includes some commonly used scripts of Praat, combined with simple examples to explain how to use these scripts, each independent directory contains sample files and result files, which are suitable for those who have some understanding of the basic operations of Praat, beginners who have a good understanding of basic acoustic parameters such as Duration, fundamental frequency and formant.") by *Pengfei Shao*
-
 - [SpeCT - The Speech Corpus Toolkit for Praat](https://lennes.github.io/spect/ "The aim of the Speech Corpus Toolkit for Praat (SpeCT) is to provide an organized inventory of well-documented Praat scripts that can be easily downloaded, modified and used in order to perform small tasks during the various stages of building, organizing, annotating, analysing, searching and exporting data from a speech corpus.") by *Mietta Lennis*
 
 - [Praat scripts](https://www.acsu.buffalo.edu/~cdicanio/scripts.html "tonal and accentual properties of words") by *Christian DiCanio - University at Buffalo*
@@ -75,7 +74,7 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
 
 - [Praat Plugin: AudioTools](https://mashav.com/sha/Praat%20AudioTools/ "A collection of more than 415 scripts for audio processing, analysis, and synthesis in Praat. Developed for composers, sound designers, and researchers, the toolkit extends Praat’s phonetic analysis environment into a complete offline sound laboratory, enabling granular synthesis, adaptive filtering, spectral transformation, fractal reverb, multichannel spatialisation, and machine-learning-driven audio effects.") by *Shai Cohen*
 
-- Special projects
+##### Special projects
 
 - [Vowel Triangle](https://robvanson.codeberg.page/VowelTriangle/ "A Praat script to calculate the Vowel Space Area from labelled and unlabelled running speech") by *Rob van Son* 
 
@@ -146,11 +145,10 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
 ----
 
 [^resources]: Praat resource is available at:
-[GitHub](https://robvanson.github.io/Praat-resources/)
-[Codeberg](https://robvanson.codeberg.page/praat-resources/)
-[GitLab](https://gitlab.com/robvanson/Praat-resources)
-
-
+- [GitHub](https://robvanson.github.io/Praat-resources/)
+- [Codeberg](https://robvanson.codeberg.page/praat-resources/)
+- [GitLab](https://gitlab.com/robvanson/Praat-resources)
+- [SourceForge](https://praat-resources.sourceforge.io/)
 
 [^Mac]: Installing a *Whisper* model for *Praat* is also easy on a Mac from the terminal
 Install *wget* with [*Homebrew*](https://brew.sh/)    
