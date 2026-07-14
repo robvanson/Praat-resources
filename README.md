@@ -148,11 +148,7 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
 
 ----
 
-[^resources]: Praat resources is available at:
-- [GitHub](https://robvanson.github.io/Praat-resources/)
-- [Codeberg](https://robvanson.codeberg.page/praat-resources/)
-- [GitLab](https://gitlab.com/robvanson/Praat-resources)
-- [SourceForge](https://praat-resources.sourceforge.io/)
+[^resources]: Praat resources is available at: [GitHub](https://robvanson.github.io/Praat-resources/), [Codeberg](https://robvanson.codeberg.page/praat-resources/), [GitLab](https://gitlab.com/robvanson/Praat-resources), [SourceForge](https://praat-resources.sourceforge.io/)
 
 [^Mac]: Installing a *Whisper* model for *Praat* is also easy on a Mac from the terminal
 Install *wget* with [*Homebrew*](https://brew.sh/)    
