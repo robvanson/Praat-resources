@@ -12,6 +12,13 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
 
     *Below you find descriptions of the items in the tooltips (hover over the link)*
 
+# Essentials
+
+- [Praat Basics: Introduction to the Software](https://joeystanley.com/downloads/190911-intro_to_Praat) by *Joey Stanley & Lisa Lipani - University of Georgia
+- [Praat tutorial](https://www.gouskova.com/2016/09/03/praat-tutorial/) by [*Maria Gouskova - New York University*](https://www.gouskova.com/)
+- [Praat Course](https://www.fernandabarrientos.cl/praatcourse/index.html "Welcome to my Praat course. I wrote the first version of this course in 2019 for my students at Konstanz. Most of them had a background in Phonetics, Praat (i.e. having used the GUI), and/or computer programming and thus I wrote it taking that into account. The second version had students without such background and it became obvious to me that the next version of this course will need to cater for those students as well. The third version (current) included the participation of Moritz Jakob as a teaching assistant, who also contributed to the course structure by adding further exercises and making the course progress smoother.") by *Fernanda Barrientos* (scripting)
+- [Speech Signal Processing with Praat (PDF)](https://www.fon.hum.uva.nl/david/sspbook/sspbook.pdf "The aim of this book is to give the non-mathematically oriented reader insight into the speech processing facilities of the computer program Praat. This program is freely available from Praat’s website at http://www.praat.org and versions of the program exist for all major platforms: Linux, Windows and Mac OS. Versions for mobile platforms are not supported yet.") by *David Weenink* (Advanced materials, 328 pages)
+
 # Introductions
 
 - [Praat.org introductory tutorial to Praat](https://praat.org/manual/Intro.html) 
