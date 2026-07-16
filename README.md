@@ -14,7 +14,7 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
 
 # Essentials
 
-1. [Praat Basics: Introduction to the Software](https://joeystanley.com/downloads/190911-intro_to_Praat) by *Joey Stanley & Lisa Lipani - University of Georgia
+1. [Praat Basics: Introduction to the Software](https://joeystanley.com/downloads/190911-intro_to_Praat) by *Joey Stanley & Lisa Lipani - University of Georgia*
 2. [Praat tutorial](https://www.gouskova.com/2016/09/03/praat-tutorial/) by [*Maria Gouskova - New York University*](https://www.gouskova.com/)
 3. [Segmentation and Annotation in Praat](https://aletheiacui.github.io/tutorials/segmentation_with_praat.html) by *Aletheia Cui - University of Pennsylvania*
 4. [Praat Course](https://www.fernandabarrientos.cl/praatcourse/index.html "Welcome to my Praat course. I wrote the first version of this course in 2019 for my students at Konstanz. Most of them had a background in Phonetics, Praat (i.e. having used the GUI), and/or computer programming and thus I wrote it taking that into account. The second version had students without such background and it became obvious to me that the next version of this course will need to cater for those students as well. The third version (current) included the participation of Moritz Jakob as a teaching assistant, who also contributed to the course structure by adding further exercises and making the course progress smoother.") by *Fernanda Barrientos* (scripting)
