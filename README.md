@@ -21,6 +21,8 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
 5. [Scripting](https://www.fon.hum.uva.nl/praat/manual/Scripting.html "A *script* is a text that consists of menu commands and action commands. If you *run* the script (perhaps from a ScriptEditor), the commands are executed as if you clicked on them. You can read this tutorial sequentially with the help of the “**< 1**” and “**1 >**” buttons.") at *Praat.org* (scritpting reference)
 6. [Speech Signal Processing with Praat (PDF)](https://www.fon.hum.uva.nl/david/sspbook/sspbook.pdf "The aim of this book is to give the non-mathematically oriented reader insight into the speech processing facilities of the computer program Praat. This program is freely available from Praat’s website at http://www.praat.org and versions of the program exist for all major platforms: Linux, Windows and Mac OS. Versions for mobile platforms are not supported yet.") by *David Weenink* (Advanced materials, 328 pages)
 
+---
+
 # Introductions
 
 - [Praat.org introductory tutorial to Praat](https://praat.org/manual/Intro.html) 
