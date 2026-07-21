@@ -1,6 +1,6 @@
 # Resources[^resources] for <br/> [Praat: doing phonetics by computer](https://www.praat.org)
 
-*Rob van Son, Netherlands Cancer Institute*
+*[Rob van Son](https://orcid.org/0000-0001-6321-7635), Netherlands Cancer Institute*
 
 Where to get praat: [Praat.org](https://www.praat.org)
 
