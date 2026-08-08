@@ -49,7 +49,7 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
 
 - [Recording with Praat](https://aletheiacui.github.io/tutorials/recording_with_praat.html) by *Aletheia Cui - University of Pennsylvania*
 
-- Whisper speech recognition integration by *Anastasia Shchupak* (at *Praat.org*)
+- Whisper speech recognition integration by *Anastasia Shchupak* (at *Praat.org*) 
   
   * [whisper.cpp](https://praat.org/manual/whisper_cpp.html)  Using Whisper speech recognition natively in Praat
   
