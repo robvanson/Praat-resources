@@ -31,6 +31,8 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
 
 - [1.2. Introduction of Praat from EdU HK](https://corpus.eduhk.hk/english_pronunciation/index.php/1-2-introduction-of-praat/)
 
+- [Seeing what you hear: A practical introduction to Praat](https://joeystanley.com/blog/vasta/) by *Joey Stanley - University of Georgia* (long)
+
 # Tutorials
 
 - [Praat manuals by others](https://www.fon.hum.uva.nl/praat/manualsByOthers.html "This page lists some beginner's manuals for Praat that were written by others than Paul Boersma and David Weenink; please don’t forget to read the Intro in Praat (under Help) as well.") at *Praat.org* (in several languages)
@@ -55,7 +57,7 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
   
   * [Speech recognition](https://praat.org/manual/Speech_recognition.html) 
   
-  *  [Transcription with whisper.cpp](https://praat.org/manual/transcription_with_whisper_cpp.html)    
+  * [Transcription with whisper.cpp](https://praat.org/manual/transcription_with_whisper_cpp.html)    
     In addition to the instructions at *Praat.org* for *MS Windows*, installing a *Whisper* model for *Praat* is also easy on a *Mac* using the terminal [^Mac]
 
 # Scripting
