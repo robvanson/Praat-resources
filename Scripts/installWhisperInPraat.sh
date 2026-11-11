@@ -16,7 +16,7 @@
 #    along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 
-mkdir -p ~/Library/Preferences/Praat\ Prefs/models/whispercpp/
-cd ~/Library/Preferences/Praat\ Prefs/models/whispercpp/
-wget https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-tiny-q5_1.bin
+mkdir -p ~/Library/Application\ Support/Praat/models/whispercpp/
+cd ~/Library/Application\ Support/Praat/models/whispercpp/
+wget  https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-tiny-q5_1.bin
 cd -
