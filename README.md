@@ -59,6 +59,8 @@ GitHub page: [Praat · GitHub](https://github.com/praat/praat.github.io)
   
   * [Transcription with whisper.cpp](https://praat.org/manual/transcription_with_whisper_cpp.html)    
     In addition to the instructions at *Praat.org* for *MS Windows*, installing a *Whisper* model for *Praat* is also easy on a *Mac* using the terminal [^Mac]
+  
+  * A small script to convert recordings directly to text files: [Transcribe_Speech_Form.praat](https://robvanson.github.io/Praat-resources/Scripts/Transcribe_Speech_Form.praat)
 
 # Scripting
 
